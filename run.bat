@@ -1,1 +1,1 @@
-python -m jupyter notebook ./notebooks
+python src/optimization.py
